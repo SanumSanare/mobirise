@@ -51,6 +51,13 @@
 #dropdown-menu-2btn-d .navbar-toggler {
   color: #000000;
 }
+#header1-v H1 {
+  color: #ffffff;
+}
+#header1-v P {
+  color: #ffffff;
+  text-align: center;
+}
 #contacts1-e P {
   color: #000000;
 }
@@ -205,6 +212,22 @@
   background: #f5f5f5;
 }
 #dropdown-menu-2btn-1v .navbar-toggler {
+  color: #000000;
+}
+#header3-21 H3 {
+  text-align: center;
+  font-size: 36px;
+}
+#image2-1x B {
+  font-size: 24px;
+}
+#image2-1x DIV {
+  color: #000000;
+}
+#image2-23 B {
+  font-size: 24px;
+}
+#image2-23 DIV {
   color: #000000;
 }
 #contacts1-1w P {

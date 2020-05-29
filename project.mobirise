@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SANUM",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "uniqCompNum": 73,
+    "uniqCompNum": 76,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png"
   },
@@ -39,7 +39,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"true\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"true\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"true\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"true\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"true\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -95,7 +95,7 @@
             },
             "overlay": false,
             "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "title": "SANUM",
           "text": "Massoterapia Regeneradora",
@@ -434,7 +434,7 @@
             }
           },
           "text1": "",
-          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanus@gmail.com<br>Telefone: (+351) 966 361 861<br>",
+          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanum@protonmail.com<br>Telefone: (+351) 966 361 861<br>",
           "text3": "<strong>Links</strong><ul><li>FaceBook</li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">I</a>nstagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -472,7 +472,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"true\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"true\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"true\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"true\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"true\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -513,12 +513,12 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2-1000x563.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -531,14 +531,23 @@
             "overlayOpacity": 0.5
           },
           "title": "Rituais Terapêuticos",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "text": "As Massagens Terapêuticas representam um toque estruturado e especializado. <br>A pressão e as técnicas utilizadas são escolhidas e adaptadas para cada pessoa, em cada momento.\n<br>O toque promove efeitos que levam a desencadear funções estimulantes, influenciando assim nos estados fisiológicos, psicológicos e físicos do organismo.\n<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Saber Mais</a>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
           ],
           "_name": "header1",
-          "_anchor": "header1-v"
+          "_anchor": "header1-v",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -560,14 +569,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Bootstrap 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title1": "Corpo Inteiro",
+          "caption1": "A Massagem aos Tecidos Profundos é uma massagem dinâmica aplicada com pressão firme, com foco nas camadas mais profundas de tecido muscular, tendões e fáscia. \n<br>Duração: 60 ou 90 minutos<br>\n<br>BENEFÍCIOS: \n<br>- Elimina nódulos de tensão; \n<br>- Relaxa os músculos e ajuda a aliviar a dor; \n<br>- Estimula o tecido muscular, ajuda a aumentar a circulação do sangue e fluidos linfáticos. \n<br>- Reduz o stress, a pressão arterial e impulsiona o humor e relaxamento; \n<br>- Promove a flexibilidade, reduz a fadiga, melhora a resistência, ajuda a prevenir lesões e prepara o corpo e mente para o desempenho ideal. \n<br>\n<br>INDICAÇÕES: \n<br>- Dor muscular crónica; \n<br>- Mobilidade reduzida; \n<br>- Recuperação de lesões.&nbsp;<br>",
+          "title2": "Massagem Localizada",
+          "caption2": "Massagem Deep Tissue Localizada, costas ou pernas. \n<br>Duração: 30 ou 50 minutos\n<br>\n<br>BENEFÍCIOS: \n<br>- Melhora a circulação do sangue, reduz a dor e diminui a inflamação, a tensão e estagnação muscular para que o corpo recupere a sua integridade e equilíbrio neuromuscular. \n<br>- Liberta os pontos de tensão e trata contracturas nos músculos tensos que provocam dor a outras partes do corpo. \n<br>\n<br>INDICAÇÕES: \n<br>- Pontos de tensão, contracturas, 'nós' musculares.&nbsp;",
+          "title3": "Localizada com Ventosas",
+          "caption3": "",
+          "title4": "Massagem Abdominal",
+          "caption4": "A massagem abdominal é um procedimento útil e eficaz que ajuda com os sintomas da dor, bem como muitas patologias diferentes do trato gastrointestinal.\n<br>\nDuração: 30 minutos<br><br>BENEFÍCIOS:\n<br>- Diminui a necessidade do uso prolongado de laxantes;\n<br>- Alivia os gases;\n<br>- Diminui a probabilidade de precisar de atendimento médico por causa do problema;\n<br>- Relaxa o corpo e os músculos, acalmando o intestino.\n<br>\n<br>INDICAÇÕES:\n<br>- Prisão de ventre;\n<br>- Soltura do intestino;\n<br>- Gases;\n<br>- Dores abdominais.\n<br>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -595,14 +604,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Bootstrap 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
+          "title1": "Massagem Feminina",
+          "caption1": "Massagem dos órgãos internos femininos: Útero e Ovários, com óleo essencial de Onagra, acompanhada com exercícios de respiração consciente.\n<br>\nDuração: 30 minutos<br><br>A massagem Feminina é uma forma de transformar o ciclo menstrual em força vital.\n<br>A respiração consciente ajuda a conectar profundamente com os nossos órgãos femininos, dirigindo a atenção, o carinho e o movimento respiratório à matriz e aos ovários.\n<br>\nO óleo de Onagra contém ácidos gordos essenciais que contribuem na produção de um tipo de hormona que reduz o processo de inflamação. Esta propriedade é muito útil no tratamento dos sintomas da TPM (acne, cólicas, dores de cabeça, ansiedade, entre outros.)\n<br>\n<br>BENEFICIOS:\n<br>- Libertação das toxinas acumuladas;\n<br>- Melhora a função ovariana, a qualidade dos óvulos e da ovulação;\n<br>- Melhorar a qualidade e a quantidade do muco cervical;\n<br>- Diminui a dor pélvica;\n<br>- Diminuição da dor e das cólicas, causadas pela Endometriose;\n<br>- Trabalha as aderências causadas por cirurgias abdominais ou pélvicas, por inflamações pélvicas, por inflamações abdominais, por abortos, por uso de DIU, por DSTs ou por abuso físico ou sexual (libertação dos bloqueios energéticos advindos de traumas emocionais);\n<br>- Regula os ciclos menstruais, a qualidade do fluxo menstrual ( diminuição dos coágulos) e promove o equilíbrio hormonal;\n<br>- Fortalece os órgãos reprodutivos;\n<br>- Melhora a qualidade da vida sexual.\n<br>",
+          "title2": "Massagem na Cadeira",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
+          "title3": "Massagem Pré e Pós Cirurgia",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title4": "Drenagem Linfática Manual",
+          "caption4": "A Drenagem Linfática Manual é uma técnica específica de massagem que se caracteriza por movimentos precisos, cadênciados de pressão suave e ritmo lento.\n<br>Os movimentos realizados promovem a desobstrução dos canais linfáticos e geram uma estimulação molecular no corpo que potencia a eliminação das toxinas e dos resíduos líquidos, responsáveis pela formação de nódulos de gordura.\n<br>O método utilizado é o Método de Vodder, através do estímulo geral dos principais órgãos linfáticos.<br>Os órgãos linfáticos são pequenas áreas pertencentes ao sistema linfático, responsáveis por filtrar a linfa e produzir anti-corpos. Quando não estão no seu funcionamento saudável, ficam inflamados, inchados e dolorosos.\n<br>\n<br>INDICAÇÕES:\n<br>- Retenção de líquidos\n<br>-Pernas inchadas e cansadas\n<br>- Problemas circulatórios\n<br>- Alterações de pele como úlceras e acne\n<br>- Perturbações articulares e músculo-esqueléticas\n<br>- Obstipação, entre outras\n<br>\n<br>É também benéfica em situações de pós-cirurgia plástica, pós-lipoaspiração, edemas de gravidez e celulite.\n<br>\n<br>A Drenagem Linfática Manual leva tempo a produzir efeitos visíveis e duradouros, sendo aconselhada em ciclos de &nbsp;10 sessões.<br>Duração:<br>- 1 zona (abdómen, costas, rosto) - 50 minutos<br>- 2 zonas (pernas, braços, seios) - 90 minutos<br>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -742,7 +751,7 @@
             }
           },
           "text1": "",
-          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanus@gmail.com<br>Telefone: (+351) 966 361 861<br>",
+          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanum@protonmail.com<br>Telefone: (+351) 966 361 861<br>",
           "text3": "<strong>Links</strong><ul><li>FaceBook</li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">I</a>nstagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -764,7 +773,7 @@
     "page7.html": {
       "settings": {
         "title": "Rituais Relaxamento",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -780,7 +789,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"true\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"true\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"true\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"true\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"true\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -1051,7 +1060,7 @@
             }
           },
           "text1": "",
-          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanus@gmail.com<br>Telefone: (+351) 966 361 861<br>",
+          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanum@protonmail.com<br>Telefone: (+351) 966 361 861<br>",
           "text3": "<strong>Links</strong><ul><li>FaceBook</li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">I</a>nstagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -1073,7 +1082,7 @@
     "page8.html": {
       "settings": {
         "title": "Rituais Orientais",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1089,7 +1098,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"true\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"true\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"true\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"true\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"true\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -1360,7 +1369,7 @@
             }
           },
           "text1": "",
-          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanus@gmail.com<br>Telefone: (+351) 966 361 861<br>",
+          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanum@protonmail.com<br>Telefone: (+351) 966 361 861<br>",
           "text3": "<strong>Links</strong><ul><li>FaceBook</li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">I</a>nstagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -1398,7 +1407,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"true\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"true\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"true\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"true\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"true\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -1669,7 +1678,7 @@
             }
           },
           "text1": "",
-          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanus@gmail.com<br>Telefone: (+351) 966 361 861<br>",
+          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanum@protonmail.com<br>Telefone: (+351) 966 361 861<br>",
           "text3": "<strong>Links</strong><ul><li>FaceBook</li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">I</a>nstagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -1707,7 +1716,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"true\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"true\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"true\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"true\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"true\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -1978,7 +1987,7 @@
             }
           },
           "text1": "",
-          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanus@gmail.com<br>Telefone: (+351) 966 361 861<br>",
+          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanum@protonmail.com<br>Telefone: (+351) 966 361 861<br>",
           "text3": "<strong>Links</strong><ul><li>FaceBook</li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">I</a>nstagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -2016,7 +2025,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"true\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"true\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"true\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"true\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"true\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -2287,7 +2296,7 @@
             }
           },
           "text1": "",
-          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanus@gmail.com<br>Telefone: (+351) 966 361 861<br>",
+          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanum@protonmail.com<br>Telefone: (+351) 966 361 861<br>",
           "text3": "<strong>Links</strong><ul><li>FaceBook</li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">I</a>nstagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -2325,7 +2334,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"true\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"true\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"true\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"true\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"true\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RITUAIS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Terapêuticos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Relaxamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Orientais</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Ritual SANARE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Domicílio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Empresas e Eventos</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">ÉTICA x ETIQUETA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -2365,28 +2374,58 @@
         },
         {
           "_params": {
+            "showMeta": true
+          },
+          "title": "Seja muito bem vinda, ou bem vindo, ao Espaço SANUM! \n",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-21",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
             "showText": true
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/photo-13.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/p1140436-1000x563.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "<b>Etiqueta do Cliente</b>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
           ],
           "_name": "image2",
-          "_anchor": "image2-1x"
+          "_anchor": "image2-1x",
+          "_styles": {
+            "B": {
+              "font-size": "24px"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          }
         },
         {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\"></span><span style=\"font-size: 1.25rem;\"><i><b>Marcações?</b></i> É conveniente que a marcação seja feita com antecedência para que possamos corresponder à tua disponibilidade. Faz o agendamento através do telefone:  (+351) 966 361 861 ou pelo email: <i>magda.sanum@protonmail.com</i>&nbsp;<br></span><i style=\"font-size: 1.25rem;\"><b>Informações?</b></i><span style=\"font-size: 1.25rem;\"> No momento do agendamento, pergunta tudo o que considerares importante e informa sobre as tuas preferências e necessidades pessoais.<br></span><span style=\"font-size: 1.25rem;\">Em caso de gravidez, alergias, cirurgias recentes, epilepsia, cancro, problemas cardíacos e tensão alta não controlada, deves consultar o teu médico antes de receber uma massagem e comunicar à terapeuta no momento da marcação.<br></span><b style=\"font-size: 1.25rem;\"><i>Crianças e adolescentes?</i></b><span style=\"font-size: 1.25rem;\"> Para receberem uma massagem SANUM, as crianças e os adolescentes deverão estar sempre acompanhadas por um adulto.<br><i><b>Cancelar uma reserva? </b></i>Se não vais poder cumprir com a sessão que marcaste, por favor cancela a reserva o mais rapidamente possível. Assim dás a possibilidade de preencher a tua vaga.&nbsp;<br></span><b style=\"font-size: 1.25rem;\"><i>Preparativos?</i></b><span style=\"font-size: 1.25rem;\"> Para receber o relaxamento e benefício máximo de uma massagem, prepara-te com alguma antecedência.<br></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">- Garante que não serás incomodado/a durante o tempo em que decorre a sessão.</span><span style=\"font-size: 1.25rem;\"><br></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">- Antes de uma massagem evita a exposição solar e, na hora que antecede a marcação, </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">evita</span><span style=\"font-size: 1.25rem;\">&nbsp;ingerir alimentos. Evita o consumo de álcool por completo, mas bebe&nbsp;</span><span style=\"font-size: 1.25rem;\">bastante água.<br></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">- Nas massagens ao domicílio, é necessário que prepares as toalhas a serem utilizadas na </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">sessão: 2</span>&nbsp;<span style=\"font-size: 1.25rem;\">toalhões de banho + 2 toalhas de rosto.&nbsp;</span><span style=\"font-size: 1.25rem;\">No caso de preferires as toalhas da </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">SANUM, basta dizer no momento da marcação. Este s</span><span style=\"font-size: 1.25rem;\">erviço tem um custo adicional de 5€.<br></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">- Um duche prévio potencia o efeito da massagem. A água morna ajuda a abrir os </span><span style=\"font-size: 1.25rem;\">poros, </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">preparando a pele para receber os princípios activos dos óleos. Meia hora antes da </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">Massagem toma um duche morno.</span><span style=\"font-size: 1.25rem;\"><br></span><i style=\"font-size: 1.25rem;\"><b>Hora de chegada?</b></i><span style=\"font-size: 1.25rem;\"> Pede-se pontualidade nas marcações, para não prejudicar o cliente seguinte.<br></span><i style=\"font-size: 1.25rem;\"><b>Durante a sessão?</b></i><span style=\"font-size: 1.25rem;\"> Certifica-te que deixas o teu telemóvel sem som e evita levar para o espaço da sessão qualquer tipo de adereço (brincos, anéis, pulseiras, etc).<br></span><i style=\"font-size: 1.25rem;\"><b>Ficha de cliente?</b></i><span style=\"font-size: 1.25rem;\"> A primeira vez que receberes uma massagem SANUM vamos preencher em conjunto um pequeno questionário de saúde. Sê o mais sincero/a possível, procura não omitir qualquer tipo de informação.&nbsp;</span><span style=\"font-size: 1.25rem;\">Se sofres de algum caso mais complicado, é essencial fazer duas coisas antes de marcar uma massagem: aconselhares-te com o teu médico assistente e informares a terapeuta no momento da reserva.<br></span><i style=\"font-size: 1.25rem;\"><b>Dress Code?</b></i><span style=\"font-size: 1.25rem;\"> A maioria das pessoas prefere retirar toda a roupa, no entanto podes manter a roupa interior caso te sintas mais confortável assim. Durante a Massagem, o terapeuta mantém todo o teu corpo coberto e só expõe as partes que vão ser massajadas.<br></span><i style=\"font-size: 1.25rem;\"><b>Na marquesa?</b></i><span style=\"font-size: 1.25rem;\">&nbsp;Respirar profundamente e fechar os olhos ajuda ao relaxamento completo. Relaxa, para permitir ao corpo e à mente libertarem as preocupações e tensões do dia.&nbsp;<br></span><b style=\"font-size: 1.25rem;\"><i>Satisfação total?</i>&nbsp;</b><span style=\"font-size: 1.25rem;\">Se algo estiver a incomodar durante o decorrer da massagem, luz muito intensa, música ambiente demasiada alta, incenso muito forte, temperatura ambiente fria ou quente , podes e deves comunicar as tuas preferências ao terapeuta. Assim como também és tu que decides se queres conversar durante a sessão ou desfrutá-la em silêncio. Se durante o tratamento sentires algum tipo de desconforto, avisa de imediato.&nbsp;<br></span><i style=\"font-size: 1.25rem;\"><b>Pagamento?</b></i><span style=\"font-size: 1.25rem;\"> O Pagamento da massagem deverá ser feito logo após a sessão, em numerário.&nbsp;</span><span style=\"font-size: 1.25rem;\">Os pacotes de sessões deverão ser pagos antecipadamente, no acto da compra dos mesmos, ou fraccionado em duas vezes, 50% na primeira sessão e o restante na sessão a meio do ciclo.<br></span><i style=\"font-size: 1.25rem;\"><b>E depois?</b></i><span style=\"font-size: 1.25rem;\"> Após a massagem, tem em consideração as recomendações feitas pela terapeuta, evita a exposição solar e hidrata-te! Permite-te relaxar e desfrutar dos efeitos da Massagem nas 2 horas que se seguem ao tratamento e evita fazer esforços nas 24h seguintes.<br></span><span style=\"font-size: 1.25rem;\">No dia seguinte à massagem, cuidarei em saber se a tua experiência foi como esperavas e em ouvir as sugestões que tiveres para me ajudar a melhorar a qualidade do meu serviço.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -2401,23 +2440,34 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/photo-13.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/p1140667-1-1000x563.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "<b>Ética do Terapeuta</b>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
           ],
           "_name": "image2",
-          "_anchor": "image2-1z"
+          "_styles": {
+            "B": {
+              "font-size": "24px"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "image2-23"
         },
         {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>A Terapeuta compromete-se a: executar o trabalho com honestidade, diligência, <b>integridade</b> e responsabilidade.\n<br><span style=\"font-size: 1.25rem;\">Compromete-se a respeitar a <b>confidencialidade</b>, o valor e a propriedade da informação relativa ao cliente, respeitando a protecção dos dados e não a divulgando sem a devida autorização, excepto em caso de obrigação legal ou profissional.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">A Terapeuta compromete-se a facilitar o<b> consentimento Informado</b>, fornecendo ao cliente informação suficiente e adequada para este tomar decisões conscientes relativas ao tratamento, tais como: os objectivos e propósitos de cada sessão, as possíveis consequências do tratamento, os riscos envolvidos, os possíveis benefícios do tratamento, duração e custo do mesmo.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Compromete-se a aplicar os conhecimentos, técnicas e experiências necessárias ao desempenho das funções, desenvolvendo apenas acções para as quais disponha a <b>competência</b> dos necessários conhecimentos, proficiência e experiência.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Compromete-se à <b>objectividade</b>, analisar o historial clínico do paciente através da Anamnese, fazendo uma avaliação equilibrada de todas as circunstâncias relevantes e a não interferir em serviços para os quais não esteja profissionalmente habilitado, devendo encaminhar o paciente para o profissional de saúde adequado.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">A Terapeuta compromete-se também à não discriminação de pacientes, tratando todos com a mesma simpatia, cortesia e dedicação, e atendendo com <b>imparcialidade</b> pessoas de qualquer idade, etnia, religião, sexo ou orientação sexual.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">A Terapeuta, tal como o Cliente, têm direito a recusar o tratamento por qualquer razão plausível, devendo as suas necessidades e os seus limites ser respeitados.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">É obrigação da terapeuta respeitar as normas de <b>higiene</b> pessoal e do espaço onde exerce os seus serviços. apresentando-se com farda e calçado adequados. Todo e qualquer <b>contacto físico</b> deve ser <b>respeitoso</b>.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">A Terapeuta compromete-se com o <b>aperfeiçoamento profissional contínuo</b>: mantendo-se actualizado em matérias de conhecimento técnico, quer a nível teórico, quer prático, abrangendo áreas relacionadas com anatomia, fisiologia, técnicas de massagem e outras formas de manipulação corporal, psicologia e reabilitação física.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Compromete-se a conhecer e cumprir a<b> legislação</b>, as leis laborais e todas as outras eventualmente relacionadas com a profissão de massagista.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -2454,7 +2504,7 @@
             }
           },
           "text1": "",
-          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanus@gmail.com<br>Telefone: (+351) 966 361 861<br>",
+          "text2": "<strong>Contactos:</strong><br>\nEmail: magda.sanum@protonmail.com<br>Telefone: (+351) 966 361 861<br>",
           "text3": "<strong>Links</strong><ul><li>FaceBook</li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">I</a>nstagram</li></ul>",
           "alias": "purity/components",
           "_tags": [
